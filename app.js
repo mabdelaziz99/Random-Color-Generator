@@ -15,7 +15,7 @@ console.log('clicked')
 function pop(){
     const newDiv = document.createElement('div')
     const newText = document.createElement('h1')
-newText.innerText = "YOU'RE A DUMBASS"
+newText.innerText = "Thats a new color!"
 ParentDiv.appendChild(newDiv);
 newDiv.appendChild(newText)
 }
